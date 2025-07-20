@@ -64,11 +64,12 @@ Campus Shield enables:
 
 ---
 
-## 📌 Future Enhancements
+## 🚀 Future Scope
 
-- Chatbot integration for real-time assistance
-- Admin dashboard for reviewing cases
+- Admin dashboard with role-based access
+- Chatbot for real-time reporting or Q&A
 - Multi-language support
+- Integration with campus emergency contacts
 
 ---
 
