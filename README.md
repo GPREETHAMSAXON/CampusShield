@@ -21,9 +21,11 @@ Campus Shield enables:
 
 ---
 
-## 🔗 Live Website
+## 🔗 Live Project Links
 
-👉 [Campus Shield - Live Demo](https://sites.google.com/view/campusshield/home?authuser=0)
+- 🌐 **Website:** [VanGuard Website (Google Sites)](https://sites.google.com/view/campusshield/home?authuser=0)  
+- 📝 **Form:** https://docs.google.com/forms/d/e/1FAIpQLSd2lEpFnDw4aWZ1SR2ivHS6WgqxlJ47PiT6F03tCIKDk0QuGQ/viewform
+- 📄 **Presentation PDF:** [View Presentation]file:///C:/Users/PREETHAM/Downloads/Purple%20Black%20Modern%20Marketing%20Plan%20Presentation.pdf
 
 ---
 
@@ -49,7 +51,7 @@ Campus Shield enables:
 
 ## 🧾 Submission Assets
 
-- [Presentation PDF](#) (add final link)
+- file:///C:/Users/PREETHAM/Downloads/Purple%20Black%20Modern%20Marketing%20Plan%20Presentation.pdf
 - [Demo Video (Optional)](#)
 - [GitHub Repo](https://github.com/your-repo)
 
